@@ -1,0 +1,1 @@
+insert into music (name) values ("Herald of Darkness");

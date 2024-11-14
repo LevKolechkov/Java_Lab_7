@@ -37,9 +37,11 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/music-create.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/dropTableStudy.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task3_InsertMyComposition.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_SetBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task1_GetMusicCompositions.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task2_GetCompositionsWithoutMT.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/dropTableMusic.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
