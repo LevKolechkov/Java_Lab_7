@@ -40,7 +40,6 @@
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task3_InsertMyComposition.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_CreateClient.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task7_AddInfoAboutMe.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task8_dropBookAndClient.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task6_GetYoungBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_CreateBook.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task1_GetMusicCompositions.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
