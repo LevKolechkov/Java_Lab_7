@@ -1,3 +1,3 @@
-select name, publishing_year
+select name, publishingYear
 from book
-where publishing_year > 2000;
+where publishingYear > 2000;

@@ -6,7 +6,7 @@
   </component>
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -36,15 +36,19 @@
     <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/music-create.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task5_GetSortedBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task3_InsertMyComposition.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_SetBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_CreateClient.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task7_AddInfoAboutMe.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task6_GetYoungBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task1_GetMusicCompositions.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task8_dropBookAndClient.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task6_GetYoungBooks.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_CreateBook.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task1_GetMusicCompositions.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/music-insert.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task2_GetCompositionsWithoutMT.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/music-create.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_SetClient.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/task4_SetBook.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/org/example/lab_7/dropTableMusic.sql" connection-id="b95b480b-4691-49f2-8d93-b77750ec2c84" session-id="MAIN" current-schema="study" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
@@ -52,7 +56,9 @@
     <filters />
   </component>
   <component name="DBNavigator.Project.ScriptExecutionManager" clear-outputs="true">
-    <recently-used-interfaces />
+    <recently-used-interfaces>
+      <mapping database-type="MYSQL" interface-id="DEFAULT" />
+    </recently-used-interfaces>
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>

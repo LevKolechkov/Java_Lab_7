@@ -1,3 +1,3 @@
-select name, publishing_year
+select name, publishingYear
 from book
-order by publishing_year;
+order by publishingYear;

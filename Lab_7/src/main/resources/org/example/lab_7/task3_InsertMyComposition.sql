@@ -1,1 +1,1 @@
-insert into music (name) values ("Herald of Darkness");
+insert into music (id, name) values (default, 'Herald of Darkness');
